@@ -1,0 +1,8 @@
+[functions.plaid-link-token]
+verify_jwt = false
+
+[functions.plaid-exchange-public-token]
+verify_jwt = false
+
+[functions.plaid-sync-transactions]
+verify_jwt = false
